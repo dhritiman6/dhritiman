@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhritiman6
+- 👋 Hi, I’m @dhritiman
 - 👀 I’m interested in learning and mentoring
 - 🌱 I’m currently learning AI/ML and Quantum Computing
 - 📫 You can reach me at dhritiman6@icloud.com
